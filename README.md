@@ -10,11 +10,11 @@
 [![TiDB](https://img.shields.io/badge/Explore-TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb)
 [![Short films](https://img.shields.io/badge/Watch-my_short_films-A64272?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binni.everse/)
 
-**Cherubin** (che-ru-bin). Three syllables, one spelling. ☕
+You can say my name like this: **che-ru-bin**. 👋
 
-I’m a Technical Engineer at **PingCAP** in Malaysia. **TiDB** is my day job, **Web3** is my rabbit hole, and **[@binni.everse](https://www.instagram.com/binni.everse/)** is where my “what if?” ideas turn into short films.
+I’m a Technical Engineer at **PingCAP** in Malaysia, where I work with **TiDB**, a distributed database. In my spare time, I explore Web3 and make short films as [@binni.everse](https://www.instagram.com/binni.everse/).
 
-Got a side project half-built, a role I should know about, or a “what if?” you’d like to try? I’d love to hear about it. ☕
+I’d love to connect if you’re hiring, looking for someone to collaborate with, or just want to talk about what you’re building. ☕
 
 ## My toolkit
 
