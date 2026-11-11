@@ -18,7 +18,7 @@
 
 | | |
 | :-- | :-- |
-| [![TiDB](https://img.shields.io/badge/TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb) | **Distributed databases** · I work with TiDB at PingCAP and enjoy figuring out what happens when software meets real-world workloads. |
+| [![TiDB](https://img.shields.io/badge/TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb) | **Databases & AI** · I work with TiDB at PingCAP and explore how databases can power AI applications. |
 | [![GitHub projects](https://img.shields.io/badge/GitHub%20projects-6246A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cherubin25?tab=repositories) | **Side projects** · Web3, smart contracts, and ideas I get to try out at hackathons. |
 | [![Short films](https://img.shields.io/badge/Short%20films-A64272?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binni.everse/) | **Creative work** · I make short films as **@binni.everse**, from the first sketch to the final edit. |
 
