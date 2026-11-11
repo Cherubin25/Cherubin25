@@ -13,8 +13,10 @@ Outside work, I explore Web3 through hackathons and smart contract development. 
 **Databases & observability** · SQL, TiDB, Grafana  
 **Programming & web** · Python, Rust, JavaScript, Next.js, Tailwind CSS
 
-## Find me online
+## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/cherubin-john-02a9a4207/) · [X](https://x.com/Cherubin2052) · [Instagram](https://www.instagram.com/cherubinnnn/) · [Email](mailto:cherubin2052@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Cherubin2052)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherubin-john-02a9a4207/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cherubinnnn/)
 
 <sub>Animation via <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs for GitHub</a>.</sub>
