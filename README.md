@@ -12,7 +12,7 @@
 
 **Computer Science grad, now working with TiDB.** I’m usually working on a database problem, a side project, or a short film. Sometimes all three in the same week.
 
-Working on a side project, putting a team together, or just curious what I’m making next? Come find me below. ☕
+**Open to freelance projects** · SQL and data analysis, technical documentation, and AI-assisted short films. Have something in mind? Let’s talk.
 
 ## What I’m working on
 
