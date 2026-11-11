@@ -1,12 +1,18 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="600" alt="Cozy animated scene of a girl working at her desk">
+</p>
+
 # Hi, I’m Cherubin John 👋
 
 **Technical Engineer at [PingCAP](https://github.com/pingcap) · TiDB & Distributed Databases**
 
-<img align="right" width="280" alt="Animated illustration of a girl working at her desk" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
+I’m based in Malaysia and work with [TiDB](https://github.com/pingcap/tidb). I like questions that start with a graph or a slow query and end with a clear explanation of what changed.
 
-I work with [TiDB](https://github.com/pingcap/tidb) at PingCAP, where I use SQL, metrics, and logs to investigate how distributed databases behave in production.
+## What I work on
 
-Outside work, I explore Web3 through hackathons and smart contract development. I also make AI-assisted cinematic shorts as [@binni.everse](https://www.instagram.com/binni.everse/).
+- **Distributed databases.** I use SQL, Grafana, and logs to investigate query latency, replication lag, and workload changes. I look at when a change started, which components were affected, and what the evidence says about the cause.
+- **Web3 projects.** I explore smart contract development through Cyfrin and experiment with ideas through hackathons and portfolio projects.
+- **Cinematic shorts.** As [@binni.everse](https://www.instagram.com/binni.everse/), I storyboard and make AI-assisted shorts. I enjoy figuring out how to pull off an unusual shot and make it feel believable.
 
 ## Languages and tools
 
