@@ -12,7 +12,7 @@
 
 You can say my name like this: *she-ru-bin**. 👋
 
-I’m a Technical Engineer at **PingCAP** in Malaysia, where I work with **TiDB**, a distributed database. In my spare time, I explore Web3 and make short films as [@binni.everse](https://www.instagram.com/binni.everse/).
+I’m a Technical Engineer at **PingCAP** in Malaysia, where I work with **TiDB**, a distributed database. I have a bachelor’s degree in Computer Science. In my spare time, I explore Web3 and make short films as [@binni.everse](https://www.instagram.com/binni.everse/).
 
 I’d love to connect if you’re hiring, looking for someone to collaborate with, or just want to talk about what you’re building. ☕
 
