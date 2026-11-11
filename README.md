@@ -10,9 +10,7 @@
 [![TiDB](https://img.shields.io/badge/Explore-TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb)
 [![Short films](https://img.shields.io/badge/Watch-my_short_films-A64272?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binni.everse/)
 
-**Cherubin. Sounds like she-ru-bin, starts with a Ch.** 👋
-
-I studied Computer Science and now work with **TiDB** as a Technical Engineer at **PingCAP** in Malaysia. After hours, I’ll either be exploring Web3 or turning an idea I can’t stop thinking about into a short film for [@binni.everse](https://www.instagram.com/binni.everse/).
+**Computer Science grad, now working with TiDB.** After hours, I’ll either be exploring Web3 or turning an idea I can’t stop thinking about into a short film for [@binni.everse](https://www.instagram.com/binni.everse/).
 
 Working on a side project, putting a team together, or just curious what I’m making next? Come find me below. ☕
 
