@@ -4,7 +4,7 @@
 
 # Cherubin.J
 
-[![Technical Engineer at PingCAP · TiDB · Short films](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1100&color=BB9AF7&width=480&lines=Technical%20Engineer%20at%20PingCAP;Working%20with%20TiDB;Short%20films%20%40binni.everse)](https://github.com/pingcap/tidb)
+[![Technical Engineer at PingCAP · TiDB · Short films](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1100&color=BB9AF7&width=480&lines=Technical%20Engineer%20at%20PingCAP;Working%20remotely%20from%20Malaysia;Short%20films%20%40binni.everse)](https://github.com/pingcap/tidb)
 
 [![PingCAP](https://img.shields.io/badge/PingCAP-Technical_Engineer-6246A8?style=for-the-badge)](https://github.com/pingcap)
 [![TiDB](https://img.shields.io/badge/Explore-TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb)
