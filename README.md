@@ -10,20 +10,11 @@
 [![TiDB](https://img.shields.io/badge/Explore-TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb)
 [![Short films](https://img.shields.io/badge/Watch-my_short_films-A64272?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binni.everse/)
 
-I’m Cherubin (say it **che-ru-bin**). My name gets spelled a few different ways, so here’s the one to save.
+**Cherubin** (che-ru-bin). Three syllables, one spelling. ☕
 
-I’m a **Technical Engineer at PingCAP**, based in Malaysia. I work with TiDB and use SQL, Grafana, and logs to figure out why a query slowed down or a replication job fell behind. The part I enjoy most is making the findings clear enough for someone else to act on.
+I’m a Technical Engineer at **PingCAP** in Malaysia. **TiDB** is my day job, **Web3** is my rabbit hole, and **[@binni.everse](https://www.instagram.com/binni.everse/)** is where my “what if?” ideas turn into short films.
 
-Outside work, I explore Web3 through hackathons and make AI-assisted short films as [@binni.everse](https://www.instagram.com/binni.everse/).
-
-I’d love to meet people working in **data analytics, database engineering, and developer tools**. If you’re hiring in those areas or want to talk about a project, [say hello on LinkedIn](https://www.linkedin.com/in/cherubin-john-02a9a4207/).
-
-<details>
-<summary><strong>What I’m learning in Web3</strong></summary>
-
-I’m working through smart contract development with Cyfrin and using hackathons to try out ideas.
-
-</details>
+If you’re building something interesting, hiring, or just want to swap side-project ideas, [come say hi on LinkedIn](https://www.linkedin.com/in/cherubin-john-02a9a4207/).
 
 ## My toolkit
 
