@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="600" alt="Cozy animated scene of a girl working at her desk">
 </p>
 
-# Hi, I’m Cherubin John 👋
+# Cherubin John · che-ru-bin
 
 [![Technical Engineer at PingCAP · TiDB · Short films](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1100&color=BB9AF7&width=480&lines=Technical%20Engineer%20at%20PingCAP;Working%20with%20TiDB;Short%20films%20%40binni.everse)](https://github.com/pingcap/tidb)
 
@@ -10,9 +10,13 @@
 [![TiDB](https://img.shields.io/badge/Explore-TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb)
 [![Short films](https://img.shields.io/badge/Watch-my_short_films-A64272?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binni.everse/)
 
-I’m a Technical Engineer at PingCAP, based in Malaysia. My favorite problems start with a weird spike on a graph. Give me the timestamp and I’ll happily spend the next hour lining up Grafana charts, slow queries, and logs to figure out what happened.
+I’m Cherubin (say it **che-ru-bin**). My name gets spelled a few different ways, so here’s the one to save.
 
-Away from the dashboards, I make AI-assisted short films as **@binni.everse**. A recent project put me behind the wheel of a flying Tesla. The part I obsessed over was getting the spilled coffee and the sunglasses to move convincingly in the same shot.
+I’m a **Technical Engineer at PingCAP**, based in Malaysia. I work with TiDB and use SQL, Grafana, and logs to figure out why a query slowed down or a replication job fell behind. The part I enjoy most is making the findings clear enough for someone else to act on.
+
+Outside work, I explore Web3 through hackathons and make AI-assisted short films as [@binni.everse](https://www.instagram.com/binni.everse/).
+
+I’d love to meet people working in **data analytics, database engineering, and developer tools**. If you’re hiring in those areas or want to talk about a project, [say hello on LinkedIn](https://www.linkedin.com/in/cherubin-john-02a9a4207/).
 
 <details>
 <summary><strong>What I’m learning in Web3</strong></summary>
