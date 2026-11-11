@@ -4,20 +4,33 @@
 
 # Hi, I’m Cherubin John 👋
 
-**Technical Engineer at [PingCAP](https://github.com/pingcap) · TiDB & Distributed Databases**
+[![Technical Engineer at PingCAP · TiDB · Short films](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1100&color=BB9AF7&width=360&lines=Technical%20Engineer%20at%20PingCAP;Working%20with%20TiDB;Making%20short%20films%20as%20%40binni.everse)](https://github.com/pingcap/tidb)
 
-I’m based in Malaysia and work with [TiDB](https://github.com/pingcap/tidb). I like questions that start with a graph or a slow query and end with a clear explanation of what changed.
+[![PingCAP](https://img.shields.io/badge/PingCAP-Technical_Engineer-6246A8?style=for-the-badge)](https://github.com/pingcap)
+[![TiDB](https://img.shields.io/badge/Explore-TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb)
+[![Short films](https://img.shields.io/badge/Watch-my_short_films-A64272?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binni.everse/)
 
-## What I work on
+I’m a Technical Engineer at PingCAP, based in Malaysia. My favorite problems start with a weird spike on a graph. Give me the timestamp and I’ll happily spend the next hour lining up Grafana charts, slow queries, and logs to figure out what happened.
 
-- **Distributed databases.** I use SQL, Grafana, and logs to investigate query latency, replication lag, and workload changes. I look at when a change started, which components were affected, and what the evidence says about the cause.
-- **Web3 projects.** I explore smart contract development through Cyfrin and experiment with ideas through hackathons and portfolio projects.
-- **Cinematic shorts.** As [@binni.everse](https://www.instagram.com/binni.everse/), I storyboard and make AI-assisted shorts. I enjoy figuring out how to pull off an unusual shot and make it feel believable.
+Away from the dashboards, I make AI-assisted short films as **@binni.everse**. A recent project put me behind the wheel of a flying Tesla. The part I obsessed over was getting the spilled coffee and the sunglasses to move convincingly in the same shot.
 
-## Languages and tools
+<details>
+<summary><strong>What I’m learning in Web3</strong></summary>
 
-**Databases & observability** · SQL, TiDB, Grafana  
-**Programming & web** · Python, Rust, JavaScript, Next.js, Tailwind CSS
+I’m working through smart contract development with Cyfrin and using hackathons to try out ideas.
+
+</details>
+
+## My toolkit
+
+![SQL](https://img.shields.io/badge/SQL-6246A8?style=flat-square)
+![TiDB](https://img.shields.io/badge/TiDB-117C83?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-AB5215?style=flat-square&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-326592?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-35303C?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-765D10?style=flat-square&logo=javascript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-117C83?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ## 🌐 Connect with Me
 
