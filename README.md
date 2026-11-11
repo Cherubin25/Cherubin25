@@ -18,14 +18,14 @@ Got a side project half-built, a role I should know about, or a “what if?” y
 
 ## My toolkit
 
-![SQL](https://img.shields.io/badge/SQL-6246A8?style=flat-square)
-![TiDB](https://img.shields.io/badge/TiDB-117C83?style=flat-square)
-![Grafana](https://img.shields.io/badge/Grafana-AB5215?style=flat-square&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-326592?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-35303C?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-765D10?style=flat-square&logo=javascript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-117C83?style=flat-square&logo=tailwindcss&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-6246A8?style=flat-square)](https://www.postgresql.org/docs/current/tutorial-sql.html)
+[![TiDB](https://img.shields.io/badge/TiDB-117C83?style=flat-square)](https://docs.pingcap.com/tidb/stable/)
+[![Grafana](https://img.shields.io/badge/Grafana-AB5215?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/docs/grafana/latest/)
+[![Python](https://img.shields.io/badge/Python-326592?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![Rust](https://img.shields.io/badge/Rust-35303C?style=flat-square&logo=rust&logoColor=white)](https://doc.rust-lang.org/book/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-765D10?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/docs)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-117C83?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs)
 
 ## 🌐 Connect with Me
 
