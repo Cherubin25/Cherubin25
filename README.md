@@ -14,7 +14,7 @@
 
 I’m a Technical Engineer at **PingCAP** in Malaysia. **TiDB** is my day job, **Web3** is my rabbit hole, and **[@binni.everse](https://www.instagram.com/binni.everse/)** is where my “what if?” ideas turn into short films.
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherubin-john-02a9a4207/)
+Got a side project half-built, a role I should know about, or a “what if?” you’d like to try? I’d love to hear about it. ☕
 
 ## My toolkit
 
