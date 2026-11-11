@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="600" alt="Cozy animated scene of a girl working at her desk">
 </p>
 
-# Cherubin John · che-ru-bin
+# Cherubin.J
 
 [![Technical Engineer at PingCAP · TiDB · Short films](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1100&color=BB9AF7&width=480&lines=Technical%20Engineer%20at%20PingCAP;Working%20with%20TiDB;Short%20films%20%40binni.everse)](https://github.com/pingcap/tidb)
 
@@ -10,7 +10,7 @@
 [![TiDB](https://img.shields.io/badge/Explore-TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb)
 [![Short films](https://img.shields.io/badge/Watch-my_short_films-A64272?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binni.everse/)
 
-You can say my name like this: **che-ru-bin**. 👋
+You can say my name like this: *she-ru-bin**. 👋
 
 I’m a Technical Engineer at **PingCAP** in Malaysia, where I work with **TiDB**, a distributed database. In my spare time, I explore Web3 and make short films as [@binni.everse](https://www.instagram.com/binni.everse/).
 
