@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="600" alt="Cozy animated scene of a girl working at her desk">
 </p>
 
-# Cherubin.J
+![Cherubin.J](./name-banner.svg)
 
 [![Working remotely from Malaysia · Short films @binni.everse · Open to side projects](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1100&color=BB9AF7&width=480&lines=Working%20remotely%20from%20Malaysia;Short%20films%20%40binni.everse;Open%20to%20side%20projects)](https://github.com/pingcap/tidb)
 
