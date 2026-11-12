@@ -10,9 +10,11 @@
 [![TiDB](https://img.shields.io/badge/Explore-TiDB-117C83?style=for-the-badge)](https://github.com/pingcap/tidb)
 [![Short films](https://img.shields.io/badge/Watch-my_short_films-A64272?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binni.everse/)
 
-**Computer Science grad with a soft spot for side quests.** One minute I’m poking around in some data. The next I’m making a short film because I thought, “Wait, what if we tried this?”
+A CS grad who lives in databases and sometimes escapes into film.
 
-**Open to freelance projects** · SQL and data analysis, technical documentation, and AI-assisted short films. Have something in mind? Let’s talk.
+🔭 **Currently:** untangling a database problem, building a side project, or editing a short film (sometimes all three).
+
+**Open to freelance.** Let's build something.
 
 ## What I’m working on
 
